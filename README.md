@@ -1,6 +1,8 @@
 # Power BI Dashboard for Amazon Prime Movies  
 This project demonstrates the creation of an interactive Power BI dashboard for analyzing Amazon Prime Movies. The dashboard presents key insights, including movie performance, ratings, and trends, to assist in understanding the underlying patterns and factors that influence movie popularity.
 
+## Note: To access the dashboard, download the "Power BI Dashboard for Amazon Movies.pbix" file and open it in Power BI.
+
 ## Tools Used  
 - **Power BI** for data visualization and dashboard creation  
 - **Excel** for data cleaning and preprocessing  
