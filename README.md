@@ -1,29 +1,45 @@
-# Power BI Dashboard for Amazon Prime Movies  
-This project demonstrates the creation of an interactive Power BI dashboard for analyzing Amazon Prime Movies. The dashboard presents key insights, including movie performance, ratings, and trends, to assist in understanding the underlying patterns and factors that influence movie popularity.
+# Amazon Prime Content Dashboard
 
-## Note: To access the dashboard, download the "Power BI Dashboard for Amazon Movies.pbix" file and open it in Power BI.
+**Power BI • Excel • Data Visualization**
 
-## Tools Used  
-- **Power BI** for data visualization and dashboard creation  
-- **Excel** for data cleaning and preprocessing  
-- **Amazon Movies Dataset** from Kaggle
+An interactive Power BI project for exploring the Amazon Prime catalog and understanding how content varies across genres, ratings, release years, countries, and content types.
 
-## Key Features  
-- Interactive visualizations for movie statistics  
-- Insights into movie ratings, genres, and release years  
-- Customizable filters for in-depth analysis
+## Project Goal
 
-## Link to Dashboard  
-[View the Dashboard](https://drive.google.com/ﬁle/d/1n19iCHdzCsBLquGc40oVaXCBocrD4keO/view?usp=sharing)
+The goal is to transform a raw entertainment dataset into a dashboard that makes the composition and historical development of the Amazon Prime catalog easier to explore.
 
-## Project Goals  
-- Understand movie trends on Amazon Prime  
-- Visualize the relationship between ratings, release years, and genres  
-- Provide actionable insights for movie recommendations and market analysis
+## Tools
 
----
+- **Power BI** — dashboard development and interactive analysis
+- **Excel** — data preparation and preprocessing
+- **Kaggle dataset** — source data
 
-## Skills Demonstrated  
-- Data visualization with Power BI  
-- Data cleaning and preprocessing  
-- Analytical thinking to derive insights from large datasets
+## Dashboard Analysis
+
+The dashboard provides views of:
+
+- Titles by genre and category
+- Ratings distribution
+- Movies versus TV shows
+- Content by release year
+- Geographic distribution of titles
+- Overall catalog composition
+
+Interactive filters allow users to explore different segments of the dataset rather than relying on a static report.
+
+## Repository Contents
+
+The repository includes the Power BI (`.pbix`) project file, the underlying dataset, and supporting project material. To explore the complete interactive report locally, download the `.pbix` file and open it with Power BI Desktop.
+
+## Skills Demonstrated
+
+- Power BI dashboard development
+- Data preparation and cleaning
+- Interactive filtering
+- Exploratory data analysis
+- Visual storytelling
+- Translating raw data into an accessible analytical report
+
+## Key Takeaway
+
+This project demonstrates the business-intelligence side of my portfolio: preparing data, selecting useful dimensions and measures, and designing an interactive dashboard that lets users explore patterns in a large content catalog.
